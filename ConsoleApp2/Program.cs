@@ -27,7 +27,7 @@ Console.WriteLine("E={0:.####}", x); E=2,7183
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Console.WriteLine("C format:{0,14:C} \t{0:C2}, 12345.678" ||C format: 12 345,68p.           12345,68p.
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-sting s = Console.ReadLine(); 
+string s = Console.ReadLine(); 
 Console.WriteLine(s);         
 \\
 string s = Console.ReadLine();
